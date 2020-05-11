@@ -1,0 +1,27 @@
+{
+  "name": "test-mail-api",
+  "version": "1.0.0",
+  "description": "Tests with email service apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edsteffen/test-mail-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edsteffen/test-mail-api/issues"
+  },
+  "homepage": "https://github.com/edsteffen/test-mail-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mailgun-js": "^0.22.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
