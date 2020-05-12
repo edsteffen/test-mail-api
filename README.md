@@ -1,5 +1,7 @@
 # Testing some email apis
 
+** Create your account in https://app.mailgun.com/ **
+
 > You need a ".env" file with the key: DEV_PORT_LISTEN= 
 
 ## 1 - API - Mailgun
